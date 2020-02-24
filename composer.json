@@ -1,0 +1,16 @@
+{
+    "name": "lyhux/easychunyu",
+    "authors": [
+        {
+            "name": "luyuh",
+            "email": "774964107@qq.com"
+        }
+    ],
+    "require": {
+        "pimple/pimple": "~3.0",
+        "guzzlehttp/guzzle": "~6.0",
+        "symfony/http-foundation": "^5.0",
+        "monolog/monolog": "^2.0"
+
+    }
+}
