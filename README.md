@@ -1,7 +1,7 @@
 
 
 ## Basic Usage
-···
+```
 <?php
 use EasyChunYu\Factory
 
@@ -13,7 +13,7 @@ $app = new Factory::make([
 
 $app->base->login("user_id", "uesr_password");
 
-···
+```
 
 
 ## Author
