@@ -22,5 +22,5 @@ lyhux luyuhux@gmail.com
 ## License
 easychunyu is licensed under the MIT License - see the LICENSE file for details
 
-Acknowledgements
+## Acknowledgements
 向easywechat致敬
